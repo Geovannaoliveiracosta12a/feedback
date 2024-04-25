@@ -17,7 +17,7 @@
 }
 
 body{
-    background-color: var(--ver-dark-blue);
+    background: var(--black-gradient);
     height: 100svh;
 
     display: flex;
